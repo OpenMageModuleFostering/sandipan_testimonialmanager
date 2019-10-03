@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Sandipan_Testimonialmanager",
+    "name": "OpenMageModuleFostering\/Sandipan_Testimonialmanager",
     "type": "magento-module",
     "license": "OSL-3.0",
     "homepage": "",
     "description": "Advanced Testimonial Manager lets you manage testimonials. Customers can write Testimonials about your store.",
     "authors": [
-    {
-        "name": "Sandipan Saha",
-        "email": "sandipansaha88@gmail.com"
-    }
-],
+        {
+            "name": "Sandipan Saha",
+            "email": "sandipansaha88@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
